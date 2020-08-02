@@ -8,3 +8,5 @@
 - A Twilio phone number with SMS capabilities - [configure one here](https://www.twilio.com/console/phone-numbers/search)
 
 The code in <code>internconf.js</code> goes in a [Twilio Function](https://www.twilio.com/console/functions/manage), Twilio's serverless environment for Node.js code.
+* I'd recommend using [Twilio Autopilot](https://www.twilio.com/autopilot) to make a more complex chatbot (it integrates with Twilio Functions.)
+[some Autopilot tutorials](https://www.twilio.com/docs/autopilot/blog-posts)
