@@ -1,7 +1,7 @@
 ## Build a Twilio and TensorFlow.js chatbot Engineering 
 ### workshop given at [InternConf](https://internconference.com/) on 8/1/2020
 
-[slides]()
+[slides](https://www.slideshare.net/ElizabethLizzieSiegl/build-a-chatbot-with-tensorflowjs-and-twilio)
 
 #### You need
 - A Twilio account [sign up for a free one here and receive an extra $10 if you upgrade through this link](http://www.twilio.com/referral/iHsJ5D)
