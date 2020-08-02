@@ -1,5 +1,5 @@
 ## Build a Twilio and TensorFlow.js chatbot Engineering 
-### workshop given at [InternConf](https://internconference.com/) on 8/1/2020
+### workshop given at [InternCon](https://internconference.com/) on 8/1/2020
 
 [slides](https://www.slideshare.net/ElizabethLizzieSiegl/build-a-chatbot-with-tensorflowjs-and-twilio)
 
